@@ -1,5 +1,5 @@
 # Sign Language Recognition System
-isolated & continuous sign language recognition using CNN+LSTM/3D CNN/GCN/Encoder-Decoder
+This is an isolated & continuous sign language recognition system using CNN+LSTM/3D CNN/GCN/Encoder-Decoder
 
 ## Requirements
 
