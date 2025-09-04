@@ -89,3 +89,11 @@ isolated & continuous sign language recognition using CNN+LSTM/3D CNN/GCN/Encode
 - https://github.com/kenshohara/3D-ResNets-PyTorch
 - https://github.com/bentrevett/pytorch-seq2seq
 
+## Contributing
+
+Contributions are always welcome!
+Just raise an issue, and we will discuss it.
+
+## Feedback
+
+If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/AyeshMallick/)
