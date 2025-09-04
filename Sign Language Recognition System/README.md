@@ -1,4 +1,4 @@
-# SLR
+# Sign Language Recognition System
 isolated & continuous sign language recognition using CNN+LSTM/3D CNN/GCN/Encoder-Decoder
 
 ## Requirements
@@ -87,6 +87,5 @@ isolated & continuous sign language recognition using CNN+LSTM/3D CNN/GCN/Encode
 - [SIGN LANGUAGE RECOGNITION WITH LONG SHORT-TERM MEMORY](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532884)
 - https://github.com/HHTseng/video-classification
 - https://github.com/kenshohara/3D-ResNets-PyTorch
-
 - https://github.com/bentrevett/pytorch-seq2seq
 
